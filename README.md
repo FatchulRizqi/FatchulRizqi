@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ## Skills on library
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317qtoiszsm6uqtrihsbre22ohlu)
 ## AI yang biasa saya gunakan untuk produktivitas
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>  <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 
@@ -34,3 +35,17 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/>  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
 ![FatchulRizqi GitHub stats](https://github-readme-stats.vercel.app/api?username=FatchulRizqi&hide=contribs,prs&theme=cobalt)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FatchulRizqi/FatchulRizqi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FatchulRizqi/FatchulRizqi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FatchulRizqi/FatchulRizqi/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/FatchulRizqi/count.svg?"  />
+</div>
+
+###
